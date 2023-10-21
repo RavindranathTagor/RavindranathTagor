@@ -23,6 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravindranathtagor&show_icons=true&locale=en&layout=compact" alt="ravindranathtagor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindranathtagor&show_icons=true&locale=en" alt="ravindranathtagor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindranathtagor&" alt="ravindranathtagor" /></p>
