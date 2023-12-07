@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ravindrart1" target="blank"><img src="https://img.shields.io/twitter/follow/ravindrart1?logo=twitter&style=for-the-badge" alt="ravindrart1" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science,Full Stack**
+- 🌱 I’m currently learning **Full Stack**
 
 - 📫 How to reach me **rtravindra10@gmail.com**
 
