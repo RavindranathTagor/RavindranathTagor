@@ -75,13 +75,7 @@ Tech Event Coordinator, TechnoSpark 2024
 Member, National Service Scheme  
 
 ---
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RavindranathTagore&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RavindranathTagore&theme=tokyonight" />
-
-</div>
 
 
 
